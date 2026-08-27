@@ -23,7 +23,11 @@ ClipMind AI is a video intelligence platform built to help content creators, stu
 2. Generates a concise, AI-written summary
 3. Detects key moments and important segments with timestamps
 4. Surfaces content insights through an analytics dashboard
+🌐 Live Deployment
+Frontend: https://clipmind-ai-od4w.onrender.com
+Backend API: https://clipmind-backend-noa3.onrender.com
 
+The frontend is deployed on Render and communicates with the deployed FastAPI backend for video processing, transcription, summarization, key-moment detection, and analytics.
 ## ✨ Features
 
 | Area | Capability |
